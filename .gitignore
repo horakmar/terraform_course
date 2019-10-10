@@ -1,0 +1,6 @@
+*.swp
+*.swo
+*.tfstate*
+*.key
+.terraform
+backend.tf
