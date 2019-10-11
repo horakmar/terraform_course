@@ -4,3 +4,4 @@
 *.key
 .terraform
 backend.tf
+aws_provider.tf
